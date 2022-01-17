@@ -8,4 +8,4 @@ We analyse the browsing and online purchasing behaviour of households using Coms
 
 ## Final Project
 
-The aim is to predict the sale prices of new houses based on their characteristics. We use two different estimation approaches, namely OLS and LASSO and Ridge and compare their performances (through the out of sample MSE). LASSO significantly performed better than the other two methods.
+The aim is to predict the sale prices of new houses based on their characteristics. We use three different estimation approaches, namely OLS, LASSO and Ridge and compare their performances (through the out of sample MSE). LASSO significantly outperformed the other two methods.
