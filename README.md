@@ -1,5 +1,7 @@
 # Introduction
 
+This repository contains R code for a Predictive Econometrics (M.A.) course at UNISG.
+
 # Specifications on Files
 
 ## [A3_LASSO.R](https://github.com/nathaliemayor/Predictive_Econometrics/blob/main/A3_LASSO.R)
