@@ -9,9 +9,7 @@ current_path <- rstudioapi::getActiveDocumentContext()$path
 setwd(dirname(current_path))
 
 browser2006<-read.csv("browser_2006.csv",header=TRUE,sep = ",")
-browser2006
 browsernew<-read.csv("browser_new.csv",header=TRUE,sep = ",")
-browsernew
 
 ### Data preparation
 # browser 2006 data
